@@ -1,8 +1,11 @@
 # Welcome to epguides api docs
 
-Providing a JSON api for everyone.
+Providing a the data from epguides as JSON for everyone.
 
 Source code: [Github](https://github.com/frecar/epguides-api)
+
+If you have any questions or comments, please [create an issue](https://github.com/frecar/epguides-api/issues)
+
 
 Example usage
 ===================
